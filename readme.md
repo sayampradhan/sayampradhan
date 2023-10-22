@@ -26,7 +26,7 @@ I am the captain of this ship. This ship 🛰️ sails at __27,580 km/h__ (or 17
 - 🛸 Fun fact: I can code without coffee
 - 🎼 Hobbies: [Writing blogs](https://medium.com/@sayampradhan) (AI, Knowledge, Experience, etc.), watching Anime, connecting with people, photography and learning new things
 
-![Sayam's github stats](https://github-readme-stats.vercel.app/api?username=sayampradhan&show_icons=true&hide_border=true)
+![Sayam's github stats](https://github-readme-stats.vercel.app/api?username=sayampradhan&show_icons=true&hide_border=true&theme=monokai)
 
 We have sped and warped through my universe. Want to unveil your own universe? Contact me at: <a href="https://www.linkedin.com/in/sayam-pradhan">
   <img align="right" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
