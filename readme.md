@@ -1,6 +1,6 @@
 # Welcome aboard my space <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" height="50" />🚀
 
-I am a 18 year old Engineering from India who loves coding and learning. I am currently pursuing my B.Tech. from KMBB College of Engineering and Technology. I am passionate about learning, programming and writing.
+I am a 18 year old Engineering Student from India who loves coding and learning. I am currently pursuing my B.Tech. from KMBB College of Engineering and Technology. I am passionate about learning, programming and writing.
 
 I am the captain of this ship. This ship 🛰️ sails at __27,580 km/h__ (or 17,130 mph). Crazy, isn't it? Well grab the firm handle closest to you because we are gonna go warp speed to know my universe.
   
