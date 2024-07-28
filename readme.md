@@ -16,8 +16,8 @@ I'm the captain of this interstellar ship, soaring through the cosmos at an exhi
     <img align="right" src="https://media.giphy.com/media/j2NDJZct5aXPzQItQ9/giphy.gif" width="300" height="300" />
   </p>
   
-  - 🌌 Currently pursuing a Bachelor of Technology (B. Tech.) in Computer Science and Engineering at [KMBB College of Engineering and Technology, Khordha](https://www.kmbb.in).
-  - 🔭 I’m diving deep into the world of __Cyber Security__.
+  - 🌌 Currently pursuing an engineering degree in CSE from [Biju Patnaik Univeristy of Technology, Odisha](https://www.bput.ac.in).
+  - 🔭 I’m diving deep into the world of (not only) __Computer Science__.
   - 👯 Looking to collaborate on projects related to (but not limited to) Automation and Scripting, Desktop Application Development, and Game Development.
   - ✨ Pronouns: He/him.
   - 🛸 Fun fact: I can code without coffee!
