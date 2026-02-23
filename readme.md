@@ -62,6 +62,9 @@ I chase **problem-solving ability**.
 You can read my thoughts here:  
 🔗 https://medium.com/@sayampradhan  
 
+I contribute to Wikipedia as well.<br>
+🔗 https://en.wikipedia.org/wiki/User:S4yam
+
 ---
 
 ## 🤝 Let’s Connect
