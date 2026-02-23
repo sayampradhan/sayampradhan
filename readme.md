@@ -46,7 +46,7 @@ I chase **problem-solving ability**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayampradhan&show_icons=true&hide_border=true&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=sayampradhan&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
