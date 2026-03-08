@@ -18,10 +18,6 @@ Currently pursuing B.Tech in CSE under
 I’m not just learning to code —  
 I’m learning how systems work, how ideas scale, and how technology shapes human behavior.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sayampradhan&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
 ## 🚀 What I’m Exploring
@@ -54,7 +50,11 @@ I chase **problem-solving ability**.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayampradhan&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sayampradhan&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sayampradhan&theme=tokyonight&hide_border=true"/>
 </p>
 ---
 
