@@ -57,18 +57,6 @@ I chase **problem-solving ability**.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayampradhan&theme=tokyonight"/>
 </p>
 
-## 📊 3D Contribution Graph
-
-See my 3D contribution visualization:
-
-https://skyline.github.com/sayampradhan
-
-## 🧊 Isometric Contribution Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/sayampradhan" alt="GitHub Contributions Chart"/>
-</p>
-
 ## 🐍 Contribution Snake
 
 <p align="center">
