@@ -56,13 +56,6 @@ I chase **problem-solving ability**.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayampradhan&theme=tokyo-night&hide_border=true"/>
 </p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sayampradhan/sayampradhan/output/snake.svg" alt="Snake animation"/>
-</p>
-
 ---
 
 ## 🌱 Beyond Coding
@@ -99,6 +92,11 @@ I’m not here just to graduate.
 I’m here to build, experiment, fail intelligently, and grow exponentially.
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sayampradhan/sayampradhan/output/snake.svg" alt="Snake animation"/>
+</p>
 
 ⭐ If you’re reading this — you’re already ahead of the average.
 
