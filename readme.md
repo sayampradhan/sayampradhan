@@ -63,15 +63,10 @@ I chase **problem-solving ability**.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sayampradhan&theme=tokyonight&utcOffset=8" />
 </p>
 
-## 📊 GitHub Contribution Summary
+## 🧊 Isometric Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayampradhan&theme=tokyonight"/>
-</p>
-
-## 🧊 3D Contribution Cube
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayampradhan&theme=tokyo-night&hide_border=true"/>
+  <img src="https://ghchart.rshah.org/sayampradhan" alt="GitHub Contributions Chart"/>
 </p>
 
 ## 🐍 Contribution Snake
