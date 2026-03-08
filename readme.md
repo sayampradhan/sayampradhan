@@ -59,9 +59,9 @@ I chase **problem-solving ability**.
 
 ## 📊 3D Contribution Graph
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sayampradhan&theme=tokyonight&utcOffset=8" />
-</p>
+See my 3D contribution visualization:
+
+https://skyline.github.com/sayampradhan
 
 ## 🧊 Isometric Contribution Graph
 
