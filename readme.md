@@ -49,6 +49,10 @@ I chase **problem-solving ability**.
   <img src="https://streak-stats.demolab.com?user=sayampradhan&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayampradhan&theme=tokyo-night&hide_border=true"/>
+</p>
+
 ---
 
 ## 🌱 Beyond Coding
