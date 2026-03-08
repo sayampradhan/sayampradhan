@@ -9,6 +9,10 @@
 
 ## 🧠 About Me
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sayampradhan&theme=tokyonight&hide_border=true"/>
+</p>
+
 I’m an 18-year-old Computer Science Engineering student from India who believes that  
 **curiosity > talent** and **consistency > motivation**.
 
@@ -46,11 +50,11 @@ I chase **problem-solving ability**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sayampradhan&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayampradhan&theme=tokyo-night&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayampradhan&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sayampradhan&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 ---
 
