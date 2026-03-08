@@ -54,7 +54,7 @@ I chase **problem-solving ability**.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sayampradhan/sayampradhan/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/sayampradhan/sayampradhan/output/snake.svg" />
 </p>
 
 <p align="center">
