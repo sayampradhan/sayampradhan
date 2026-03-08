@@ -9,10 +9,6 @@
 
 ## 🧠 About Me
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sayampradhan&theme=tokyonight&hide_border=true"/>
-</p>
-
 I’m an 18-year-old Computer Science Engineering student from India who believes that  
 **curiosity > talent** and **consistency > motivation**.
 
@@ -21,6 +17,10 @@ Currently pursuing B.Tech in CSE under
 
 I’m not just learning to code —  
 I’m learning how systems work, how ideas scale, and how technology shapes human behavior.
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sayampradhan&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
