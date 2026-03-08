@@ -53,6 +53,10 @@ I chase **problem-solving ability**.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayampradhan&theme=tokyo-night&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sayampradhan/sayampradhan/output/snake.svg" alt="Snake animation" />
+</p>
+
 ---
 
 ## 🌱 Beyond Coding
