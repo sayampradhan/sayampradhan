@@ -70,9 +70,8 @@ I chase **problem-solving ability**.
 </p>
 
 ## 🧊 3D Contribution Cube
-
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sayampradhan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayampradhan&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ## 🐍 Contribution Snake
