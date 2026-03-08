@@ -92,8 +92,6 @@ I’m not here just to graduate.
 I’m here to build, experiment, fail intelligently, and grow exponentially.
 
 ---
-## 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/sayampradhan/sayampradhan/output/snake.svg" alt="Snake animation"/>
 </p>
