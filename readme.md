@@ -43,6 +43,7 @@ I chase **problem-solving ability**.
 
 ---
 
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -58,6 +59,7 @@ I chase **problem-solving ability**.
 </p>
 
 ---
+-->
 
 ## 🌱 Beyond Coding
 
