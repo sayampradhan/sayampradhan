@@ -42,8 +42,6 @@ I chase **problem-solving ability**.
 > Thinking is the real tool.
 
 ---
-
-<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -59,7 +57,6 @@ I chase **problem-solving ability**.
 </p>
 
 ---
--->
 
 ## 🌱 Beyond Coding
 
