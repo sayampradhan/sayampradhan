@@ -24,8 +24,7 @@ I’m learning how systems work, how ideas scale, and how technology shapes huma
 
 - 💻 Core Computer Science fundamentals  
 - ⚙️ Automation & Scripting  
-- 🖥️ Desktop Application Development  
-- 🎮 Game Logic & Interactive Systems  
+- 🖥️ Desktop Application Development
 - 🧩 Understanding how digital behavior affects real-world performance  
 
 I enjoy breaking complex systems into smaller understandable components.  
